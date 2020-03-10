@@ -13,4 +13,3 @@ Specifically:
 
 This is only the start and we will be continuing to fill up this repository as we develop.
 
-Going to put a flag in the first commit incase I make a CTF in the future :)
