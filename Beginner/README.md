@@ -11,7 +11,7 @@
     - Fast
     - Have to setup network (Longer setup)
         - Firewall settings for others to access VM
-    [https://www.vulnhub.com/lab/software/vm/](Setting up Local Lab Tutorial)
+    - [Setting up Local Lab Tutorial](https://www.vulnhub.com/lab/software/vm/)
     - Use of dedicated machine will be better rather than a player hosting the vulnerable machine due to performance issues.
 
 > Use my Surface GO?
@@ -36,12 +36,13 @@
 
 ## Recommend Beginner Vulnhub Boxes
 
-- BasicPentesting1
-- BasicPentesting2
-- CTF01
-- DC
-- FristiLeaks1
-- NullByte1
+- [BasicPentesting1](https://www.vulnhub.com/entry/basic-pentesting-1,216/)
+- [BasicPentesting2](https://www.vulnhub.com/entry/basic-pentesting-2,241/)
+- [CTF01](https://www.vulnhub.com/entry/jis-ctf-vulnupload,228/)
+- [DC](https://www.vulnhub.com/series/dc,199/)
+    - 9 Box series
+- [FristiLeaks1.3](https://www.vulnhub.com/series/fristileaks,71/)
+- [NullByte1](https://www.vulnhub.com/entry/nullbyte-1,126/)
 
 ## Lab to Freely Test Multiple Vulnerabilities all in one place (RECOMMENDED)
 
