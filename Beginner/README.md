@@ -34,7 +34,6 @@
 - Practice Web Pentesting basics
     - [Natas - Overthewire](https://overthewire.org/wargames/natas/)
 
-
 ## Recommend Beginner Vulnhub Boxes
 
 - BasicPentesting1
