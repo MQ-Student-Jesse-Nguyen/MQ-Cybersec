@@ -11,14 +11,14 @@
     - Fast
     - Have to setup network (Longer setup)
         - Firewall settings for others to access VM
-    - [https://www.vulnhub.com/lab/software/vm/](Setting up Local Lab Tutorial)
+    [https://www.vulnhub.com/lab/software/vm/](Setting up Local Lab Tutorial)
     - Use of dedicated machine will be better rather than a player hosting the vulnerable machine due to performance issues.
 
 > Use my Surface GO?
 
 ## Linux Command Line
 
-- [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](Ubuntu Tutorial)
+- [Ubuntu Tutorials][https://ubuntu.com/tutorials/command-line-for-beginners#1-overview]
 - Practice using Linux Command line in terms of pentesting
     - [https://overthewire.org/wargames/bandit/](Bandit - Overthewire)
         - SSH Wargame
