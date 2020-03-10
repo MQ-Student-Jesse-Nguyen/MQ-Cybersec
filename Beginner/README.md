@@ -1,6 +1,6 @@
-# Vulnhub for Beginners
+# Pen-testing for Beginners
 
-## Setup the vulnerable lab
+## Setup a Vulnhub lab
 
 - Root Me
     - Chooses Vulnhub box and setups for you
