@@ -18,7 +18,7 @@
 
 ## Linux Command Line
 
-- [Ubuntu Tutorials][https://ubuntu.com/tutorials/command-line-for-beginners#1-overview]
+- [Ubuntu Tutorials](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 - Practice using Linux Command line in terms of pentesting
     - [https://overthewire.org/wargames/bandit/](Bandit - Overthewire)
         - SSH Wargame
