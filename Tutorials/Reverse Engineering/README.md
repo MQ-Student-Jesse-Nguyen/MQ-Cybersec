@@ -1,9 +1,6 @@
-# Web Penetration Testing
+# Reverse Engineering
 
 > Note: These tutorials haven't been implemented yet.
 
 Tutorials:
 
-- XXE
-- XSS
-- Template Injection

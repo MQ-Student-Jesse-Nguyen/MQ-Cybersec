@@ -1,9 +1,7 @@
-# Web Penetration Testing
+# Cryptography
 
 > Note: These tutorials haven't been implemented yet.
 
 Tutorials:
 
-- XXE
-- XSS
-- Template Injection
+- Ciphers 

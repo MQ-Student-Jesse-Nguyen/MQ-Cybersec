@@ -1,9 +1,9 @@
-# Web Penetration Testing
+# Forensics 
 
 > Note: These tutorials haven't been implemented yet.
 
 Tutorials:
 
-- XXE
-- XSS
-- Template Injection
+- Steganography
+- Memory Forensics
+  - Volatility

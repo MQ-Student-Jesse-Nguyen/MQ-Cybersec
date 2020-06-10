@@ -2,7 +2,7 @@
 
 > Note: These tutorials haven't been implemented yet.
 
-Tutorials:
+Vulnerability Tutorials:
 
 - XXE
 - XSS
