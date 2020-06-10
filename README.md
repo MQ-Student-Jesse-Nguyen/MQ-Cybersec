@@ -40,6 +40,8 @@ This is a good way to practice presentation skills and also a great way to teach
 
 ## Events
 
+**Hack Mac**
+
 Check out Hack Mac. A yearly CTF organised by Macquarie University.
 
 Links:
@@ -47,6 +49,18 @@ Links:
 - https://www.mq.edu.au/about/events/view/hack-mac/
 - https://wiki.mq.edu.au/display/security/Hack+Mac+19
 - https://wiki.mq.edu.au/display/security/Hack+Mac+18
+
+**Sectalks**
+
+We partcipate in [SecTalks Ninja Night](https://www.sectalks.org/online-ninja-night/)
+
+**Online CTFs**
+
+We participate in online CTFs found at https://ctftime.org/
+
+**Conferences**
+
+We also gather groups to go to conferences such as [BSides Canberra](https://www.bsidesau.com.au/) and [BSides Sydney](https://bsidessydney.org/) as well.
 
 ## What is in this repo?
 - Projects
