@@ -2,7 +2,7 @@
 
 Right now, we are based as a sub-group within the MACs (Macquarie Association for Computing Students) Society so find us in the #cybersec channel within the discord server. You will see someone called Jesse talking alot there. Feel free to DM me with any questions or you can just tag me on the channel.
 
-Join the server here: https://discord.io/macs
+Join the server here: https://discord.macs.codes/
 
 **What is MQCybersec and what is the purpose of this society?**
 
