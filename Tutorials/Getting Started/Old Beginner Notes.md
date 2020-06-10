@@ -1,4 +1,9 @@
-# Pen-testing for Beginners
+
+# **IGNORE THIS FILE. IT WILL BE MERGED INTO THE GETTING STARTED  README LATER.**
+
+*You can still read through if you want thought but it has some non-beginner stuff inside.*
+
+# Pen-testing for Beginners (Targetted for PACE Students)
 
 ## Setup a Vulnhub lab
 
@@ -13,8 +18,6 @@
         - Firewall settings for others to access VM
     - [Setting up Local Lab Tutorial](https://www.vulnhub.com/lab/software/vm/)
     - Use of dedicated machine will be better rather than a player hosting the vulnerable machine due to performance issues.
-
-> Use my Surface GO?
 
 ## Linux Command Line
 

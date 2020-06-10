@@ -10,7 +10,9 @@ We are a group of CTF enthusiasts who are passionate about Cybersecurity and wan
 
 **I'm interested in Cybersecurity but I don't know how to hack at all... Am I meant to be here?**
 
-Yes. This society was built with the purpose to introduce people to hacking and the world of Cybersecurity. It is hard to put your foot in the door with Cybersecurity and I hope that this society will be that bridge that obstructs people from falling off the cliff to continual confusion. If you are still confused or have questions, feel free to contact me on the MACs discord server or by my email (jesse.nguyen@mq.edu.au).
+Yes if you're interested in playing CTFs or actually learning how to exploit vulnerabilities. This society was built with the purpose to introduce people to hacking and the world of Cybersecurity. It is hard to put your foot in the door with Cybersecurity and I hope that this society will be that bridge that obstructs people from falling off the cliff to continual confusion on what hacking is. If you are still confused or have questions, feel free to contact me on the MACs discord server or by my email (jesse.nguyen@mq.edu.au).
+
+Check out "Tutorials/Getting Started" in this repository to find resources on how to get started.
 
 **What do we actually do in this society?**
 
@@ -28,7 +30,7 @@ We also have our own yearly CTF at Macquarie University called "Hack Mac" which 
 
 *Workshops*
 
-Occassionally, members will host workshops that are basically like tutorials to teach about a certain vulnerability. This workshop may include:
+Occassionally, members (such as myself) will host workshops that are basically like tutorials to teach about a certain vulnerability. This workshop may include:
 
 - Small presentation
 - Demonstration of vulnerability
@@ -55,6 +57,8 @@ Links:
 - Tutorials
     - Resources on how to get started
     - Vulnerability tutorials
+        - Explanation on the vulnerability
+        - CTF Challenge hosted to practice exploitation
 
 > This is only the start so it's pretty empty at the moment. We will be continuing to fill up this repository as we develop.
 
@@ -63,6 +67,12 @@ Links:
 Check us out on CTF Time: https://ctftime.org/team/112620
 
 Email: mqcybersec@gmail.com
+
+We are currently based as a subgroup of the MACs Society. Find us on the MACs discord at the #cybersec channel.
+
+Join the server here: https://discord.io/macs
+
+> I will create our own server when we have a decent amount of members
 
 Creator:
 
