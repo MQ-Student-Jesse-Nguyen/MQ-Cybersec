@@ -1,9 +1,13 @@
-# Web Penetration Testing
+# MQCybersec Tutorials
 
-> Note: These tutorials haven't been implemented yet.
+If you're new, check out the [Getting Started](Getting%20Started/README.md) directory.
 
-Vulnerability Tutorials:
+We have tutorials based on vulnerabilities for each category.
 
-- XXE
-- XSS
-- Template Injection
+- [Binary Exploitation](Binary%20Exploitation/README.md)
+- [Cryptography](Cryptography/README.md)
+- [Forensics](Forensics/README.md)
+- [OSINT](OSINT/README.md)
+- [Miscellaneous](Miscellaneous/README.md)
+- [Reverse Engineering](Reverse%20Engineering/README.md)
+- [Web Pentration Testing](Web%20Penetration%20Testing/README.md)
