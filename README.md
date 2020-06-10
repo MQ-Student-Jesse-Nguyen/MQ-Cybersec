@@ -84,7 +84,7 @@ Email: mqcybersec@gmail.com
 
 We are currently based as a subgroup of the MACs Society. Find us on the MACs discord at the #cybersec channel.
 
-Join the server here: https://discord.io/macs
+Join the server here: https://discord.macs.codes/
 
 > I will create our own server when we have a decent amount of members
 
