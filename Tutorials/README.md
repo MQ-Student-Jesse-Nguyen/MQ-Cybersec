@@ -11,3 +11,7 @@ We have tutorials based on vulnerabilities for each category.
 - [Miscellaneous](Miscellaneous/README.md)
 - [Reverse Engineering](Reverse%20Engineering/README.md)
 - [Web Pentration Testing](Web%20Penetration%20Testing/README.md)
+
+## Youtube Links
+
+[Daniel's Sutanyo Introduction to VIM](https://www.youtube.com/watch?v=bpEhXMg8GFk)
